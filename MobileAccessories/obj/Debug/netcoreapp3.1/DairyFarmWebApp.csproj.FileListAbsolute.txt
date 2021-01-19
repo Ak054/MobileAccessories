@@ -1,0 +1,378 @@
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\appsettings.json
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\DairyFarmWebApp.exe
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\DairyFarmWebApp.csprojAssemblyReference.cache
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\staticwebassets\DairyFarmWebApp.StaticWebAssets.Manifest.cache
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\staticwebassets\DairyFarmWebApp.StaticWebAssets.xml
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\DairyFarmWebApp.RazorAssemblyInfo.cache
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\DairyFarmWebApp.RazorAssemblyInfo.cs
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\DairyFarmWebApp.AssemblyInfoInputs.cache
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\DairyFarmWebApp.AssemblyInfo.cs
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\DairyFarmWebApp.TagHelpers.input.cache
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\DairyFarmWebApp.TagHelpers.output.cache
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\DairyFarmWebApp.RazorCoreGenerate.cache
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\DairyFarmWebApp.RazorTargetAssemblyInfo.cache
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\DairyFarmWebApp.RazorTargetAssemblyInfo.cs
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\DairyFarmWebApp.csproj.CopyComplete
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\DairyFarmWebApp.deps.json
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\DairyFarmWebApp.runtimeconfig.json
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\DairyFarmWebApp.runtimeconfig.dev.json
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\DairyFarmWebApp.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\DairyFarmWebApp.pdb
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\DairyFarmWebApp.Views.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\DairyFarmWebApp.Views.pdb
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\DairyFarmWebApp.MvcApplicationPartsAssemblyInfo.cache
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\DairyFarmWebApp.Views.pdb
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\DairyFarmWebApp.dll
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\DairyFarmWebApp.pdb
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Categories\Create.cshtml.g.cs
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Categories\Delete.cshtml.g.cs
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Categories\Details.cshtml.g.cs
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Categories\Edit.cshtml.g.cs
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Categories\Index.cshtml.g.cs
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Companies\Create.cshtml.g.cs
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Companies\Delete.cshtml.g.cs
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Companies\Details.cshtml.g.cs
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Companies\Edit.cshtml.g.cs
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Companies\Index.cshtml.g.cs
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Products\Create.cshtml.g.cs
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Products\Delete.cshtml.g.cs
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Products\Details.cshtml.g.cs
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Products\Edit.cshtml.g.cs
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Products\Index.cshtml.g.cs
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Orders\Create.cshtml.g.cs
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Orders\Delete.cshtml.g.cs
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Orders\Details.cshtml.g.cs
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Orders\Edit.cshtml.g.cs
+G:\DotNetProject\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Orders\Index.cshtml.g.cs
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\DairyFarmWebApp.exe
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\DairyFarmWebApp.deps.json
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\DairyFarmWebApp.runtimeconfig.json
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\DairyFarmWebApp.runtimeconfig.dev.json
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\DairyFarmWebApp.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\DairyFarmWebApp.pdb
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\DairyFarmWebApp.Views.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\DairyFarmWebApp.Views.pdb
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\DairyFarmWebApp.csprojAssemblyReference.cache
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\DairyFarmWebApp.AssemblyInfoInputs.cache
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\DairyFarmWebApp.AssemblyInfo.cs
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\DairyFarmWebApp.csproj.CoreCompileInputs.cache
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\DairyFarmWebApp.MvcApplicationPartsAssemblyInfo.cache
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\DairyFarmWebApp.RazorAssemblyInfo.cache
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\DairyFarmWebApp.RazorAssemblyInfo.cs
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\DairyFarmWebApp.TagHelpers.input.cache
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\DairyFarmWebApp.TagHelpers.output.cache
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\DairyFarmWebApp.RazorCoreGenerate.cache
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Categories\Create.cshtml.g.cs
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Categories\Delete.cshtml.g.cs
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Categories\Details.cshtml.g.cs
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Categories\Edit.cshtml.g.cs
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Categories\Index.cshtml.g.cs
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Companies\Create.cshtml.g.cs
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Companies\Delete.cshtml.g.cs
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Companies\Details.cshtml.g.cs
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Companies\Edit.cshtml.g.cs
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Companies\Index.cshtml.g.cs
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Orders\Create.cshtml.g.cs
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Orders\Delete.cshtml.g.cs
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Orders\Details.cshtml.g.cs
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Orders\Edit.cshtml.g.cs
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Orders\Index.cshtml.g.cs
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Products\Create.cshtml.g.cs
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Products\Delete.cshtml.g.cs
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Products\Details.cshtml.g.cs
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Products\Edit.cshtml.g.cs
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Products\Index.cshtml.g.cs
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\DairyFarmWebApp.RazorTargetAssemblyInfo.cache
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\DairyFarmWebApp.RazorTargetAssemblyInfo.cs
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\DairyFarmWebApp.Views.pdb
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\DairyFarmWebApp.csproj.CopyComplete
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\staticwebassets\DairyFarmWebApp.StaticWebAssets.Manifest.cache
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\staticwebassets\DairyFarmWebApp.StaticWebAssets.xml
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\DairyFarmWebApp.dll
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\DairyFarmWebApp.pdb
+E:\Games Data\NZ Shivam\EntityFrameWork\DairyFarmWebApp\DairyFarmWebApp\obj\Debug\netcoreapp3.1\DairyFarmWebApp.genruntimeconfig.cache
